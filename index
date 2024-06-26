@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head> 
+ <meta charset="utf-8">  
+ <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ <title>Owen's Website</title> 
+</head>
+
+<link rel="stylesheet" href="styles.css">
+
+<body>
+    <nav>
+        <div class="logo">Owen's Website</div>
+        <div class="nav-items">
+            <a href="https://owen-jahne.github.io">Home</a>
+            <a href="https://owen-jahne.github.io/contact">Contact</a>
+        </div>
+    </nav>
+    <section class="hero">
+        <div class="hero-container">
+            <div class="column-left"> </div>
+             <h1>Welcome to my website!</h1>
+             <button>Resume</button>
+        </div>
+        <div class="column-right">
+            <img
+              src="./dropkick.JPEG" 
+              alt="illustration"
+              class="hero-image"
+              style=max-width:100%; height:auto;
+              />
+        </div>
+</section>
+</body> 
+</html>
