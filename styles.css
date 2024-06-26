@@ -53,7 +53,7 @@ nav a:hover{
 }
 
 .hero-container {
-display: grid;
+display:flex grid;
 grid-template-columns: 1fr 1fr;
 height: 95vh;
 padding: 3rem calc((100vw-1300px)/2);
