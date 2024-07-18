@@ -19,8 +19,7 @@ header {
 h2{
     text-align: center;
     padding: 15px;
-    /* border-bottom: 5px solid rgba(97, 176, 255, 0.696);
-    font-size: 32px; */
+   font-size: 5vw; 
 }
 /*formats the headers for category of resume */
 h3{
