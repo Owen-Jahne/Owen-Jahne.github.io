@@ -18,8 +18,8 @@ header {
  header title with name*/
 h2{
     text-align: center;
-    padding: 15px;
-   font-size: 5vw; 
+    padding: 0px;
+    font-size: 4.5vw;    
 }
 /*formats the headers for category of resume */
 h3{
@@ -46,14 +46,37 @@ h6{
 
 h7{
     font-size: 14px;
-    }
+ }
 p{
     text-align: center;
+    font-weight: bold;
     clear: both;
     margin-right:10px;
     color:white;
-    padding-bottom:15px;
+    padding-bottom:10px;
+    padding-top:10px;
     border-bottom: 5px solid  rgba(8, 90, 172, 0.900);
+}
+h8{
+    display: block;
+    font-size: 12px;
+    padding-bottom:10px;
+    font-size: small;
+}
+
+h10{
+    display: block;
+    text-align: center;
+    font-weight: bold;
+    font-size:14px;
+    padding-bottom: 10px;
+}
+h9{
+    display: block;
+    padding-bottom: 40px;
+    text-align: center;
+   
+    font-size:14px;
 }
 .image{
   width:100%;
