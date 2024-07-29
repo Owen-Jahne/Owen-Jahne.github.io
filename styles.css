@@ -78,7 +78,7 @@ h9{
    
     font-size:14px;
 }
-.button {
+button {
     margin-left:28px;
     display: inline-block;
     padding: 15px 25px;
@@ -92,9 +92,9 @@ h9{
     box-shadow: 0 9px #1f0c6a;
   }
   
-  .button:hover {background-color: #838388}
+  button:hover {background-color: #838388}
   
-  .button:active {
+  button:active {
     background-color: #313786;
     box-shadow: 0 5px #666;
     transform: translateY(8px);
